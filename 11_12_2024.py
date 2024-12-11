@@ -8,6 +8,6 @@ data = {"name": "John",
         "kids": [],
         "married": False}
 
-j_data = json.dums(False)
+j_data = json.dums(data)
 print(j_data)
 print(data)
