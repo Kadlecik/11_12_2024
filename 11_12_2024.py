@@ -1,7 +1,7 @@
 
 import json
 
-from moje.lekce_1 import print
+
 
 data = {"name": "John",
         "age": 25
